@@ -1,0 +1,72 @@
+*{
+    margin: 3px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAFAFA;
+}
+
+#icono{
+    font-size: 25px;   
+    color: rgb(23, 100, 241);
+}
+#salir{
+    border-style: none;
+    width: 110px;  
+    height: 39px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    margin-top: 6px;
+}
+#salir a:hover{
+    color: #e1e1e1;
+    font-size: 16px;
+}
+.contenedor{
+    align-items: center;
+    display: flex;
+    margin: 25%;
+    margin-top: -1px;
+}
+.fi{
+    margin: 5px;
+    border-style: solid;
+    border-color: #e1e1e1;
+    border-radius: 10px;
+    padding: 1px;
+    color: #5a5959;
+  
+}
+.fil{
+    font-size: 110%;
+}
+
+.fn{
+    margin: 5px;
+    border-style: solid;
+    border-color: #e1e1e1;
+    border-radius: 10px;
+    padding: 1px;
+    color: #5a5959;
+}
+.fnl{
+    font-size: 110%;
+}
+.btngenerarpdf{
+    margin: 5px;
+    padding: 3px;
+    border-style: none;
+    background-color: rgba(194, 2, 2, 0.932);
+    text-align: start;
+    border-radius: 5px;
+    color: beige;
+}
+h1{
+    margin: 30%;
+}
+
